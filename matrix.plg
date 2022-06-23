@@ -1,0 +1,658 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Keil\project\matrix.uv2
+Project File Date:  04/13/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling matrix.c...
+matrix.c(1): warning C318: can't open file 'avr/io.h'
+matrix.c(3): warning C318: can't open file 'util/delay.h'
+MATRIX.C(10): error C202: 'P0': undefined identifier
+MATRIX.C(11): error C202: 'P2': undefined identifier
+MATRIX.C(13): error C141: syntax error near 'char'
+MATRIX.C(13): error C202: 'PORT': undefined identifier
+MATRIX.C(13): error C141: syntax error near '{'
+MATRIX.C(13): error C141: syntax error near '}'
+MATRIX.C(15): error C141: syntax error near 'static'
+MATRIX.C(15): error C141: syntax error near '{'
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C141: syntax error near '}'
+MATRIX.C(15): error C141: syntax error near ','
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C141: syntax error near '}'
+MATRIX.C(16): error C141: syntax error near ','
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C141: syntax error near '}'
+MATRIX.C(17): error C141: syntax error near ','
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C141: syntax error near '}'
+MATRIX.C(18): error C141: syntax error near ','
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C141: syntax error near '}'
+MATRIX.C(19): error C141: syntax error near ','
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C141: syntax error near '}'
+MATRIX.C(20): error C141: syntax error near ','
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C141: syntax error near '}'
+MATRIX.C(21): error C141: syntax error near ','
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C141: syntax error near '}'
+MATRIX.C(22): error C141: syntax error near ','
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C141: syntax error near '}'
+MATRIX.C(23): error C141: syntax error near ','
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C141: syntax error near '}'
+MATRIX.C(24): error C141: syntax error near ','
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C141: syntax error near '}'
+MATRIX.C(25): error C141: syntax error near ','
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C141: syntax error near '}'
+MATRIX.C(26): error C141: syntax error near ','
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C141: syntax error near '}'
+MATRIX.C(27): error C141: syntax error near ','
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C141: syntax error near '}'
+MATRIX.C(28): error C141: syntax error near ','
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C141: syntax error near '}'
+MATRIX.C(29): error C141: syntax error near ','
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C141: syntax error near '}'
+MATRIX.C(30): error C141: syntax error near ','
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C141: syntax error near '}'
+MATRIX.C(31): error C141: syntax error near ','
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C141: syntax error near '}'
+MATRIX.C(32): error C141: syntax error near ','
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C141: syntax error near '}'
+MATRIX.C(33): error C141: syntax error near ','
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C141: syntax error near '}'
+MATRIX.C(34): error C141: syntax error near ','
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C141: syntax error near '}'
+MATRIX.C(35): error C141: syntax error near ','
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C141: syntax error near '}'
+MATRIX.C(36): error C141: syntax error near ','
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C141: syntax error near '}'
+MATRIX.C(37): error C141: syntax error near ','
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C141: syntax error near '}'
+MATRIX.C(38): error C141: syntax error near ','
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C141: syntax error near '}'
+MATRIX.C(39): error C141: syntax error near ','
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C251: illegal octal digit
+MATRIX.C(40): error C141: syntax error near '}'
+MATRIX.C(42): error C141: syntax error near 'char'
+MATRIX.C(42): error C141: syntax error near '}'
+MATRIX.C(43): error C141: syntax error near 'l'
+MATRIX.C(47): error C141: syntax error near 'int'
+MATRIX.C(47): error C202: 'm': undefined identifier
+MATRIX.C(47): error C202: 'm': undefined identifier
+MATRIX.C(47): error C202: 'm': undefined identifier
+MATRIX.C(47): error C141: syntax error near ')'
+MATRIX.C(50): error C141: syntax error near 'int'
+MATRIX.C(50): error C202: 'n': undefined identifier
+MATRIX.C(50): error C202: 'n': undefined identifier
+MATRIX.C(50): error C202: 'n': undefined identifier
+MATRIX.C(50): error C141: syntax error near ')'
+MATRIX.C(52): error C141: syntax error near 'int'
+MATRIX.C(52): error C202: 'j': undefined identifier
+MATRIX.C(52): error C202: 'j': undefined identifier
+MATRIX.C(52): error C141: syntax error near ')'
+MATRIX.C(55): error C202: 'PORTD': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+MATRIX.C(12): error C141: syntax error near 'unsigned'
+MATRIX.C(12): error C202: 'PORT': undefined identifier
+MATRIX.C(12): error C141: syntax error near '{'
+MATRIX.C(12): error C141: syntax error near '}'
+MATRIX.C(14): error C141: syntax error near 'static'
+MATRIX.C(14): error C141: syntax error near '{'
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C251: illegal octal digit
+MATRIX.C(14): error C141: syntax error near '}'
+MATRIX.C(14): error C141: syntax error near ','
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C251: illegal octal digit
+MATRIX.C(15): error C141: syntax error near '}'
+MATRIX.C(15): error C141: syntax error near ','
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C251: illegal octal digit
+MATRIX.C(16): error C141: syntax error near '}'
+MATRIX.C(16): error C141: syntax error near ','
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C251: illegal octal digit
+MATRIX.C(17): error C141: syntax error near '}'
+MATRIX.C(17): error C141: syntax error near ','
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C251: illegal octal digit
+MATRIX.C(18): error C141: syntax error near '}'
+MATRIX.C(18): error C141: syntax error near ','
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C251: illegal octal digit
+MATRIX.C(19): error C141: syntax error near '}'
+MATRIX.C(19): error C141: syntax error near ','
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C251: illegal octal digit
+MATRIX.C(20): error C141: syntax error near '}'
+MATRIX.C(20): error C141: syntax error near ','
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C251: illegal octal digit
+MATRIX.C(21): error C141: syntax error near '}'
+MATRIX.C(21): error C141: syntax error near ','
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C251: illegal octal digit
+MATRIX.C(22): error C141: syntax error near '}'
+MATRIX.C(22): error C141: syntax error near ','
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C251: illegal octal digit
+MATRIX.C(23): error C141: syntax error near '}'
+MATRIX.C(23): error C141: syntax error near ','
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C251: illegal octal digit
+MATRIX.C(24): error C141: syntax error near '}'
+MATRIX.C(24): error C141: syntax error near ','
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C251: illegal octal digit
+MATRIX.C(25): error C141: syntax error near '}'
+MATRIX.C(25): error C141: syntax error near ','
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C251: illegal octal digit
+MATRIX.C(26): error C141: syntax error near '}'
+MATRIX.C(26): error C141: syntax error near ','
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C251: illegal octal digit
+MATRIX.C(27): error C141: syntax error near '}'
+MATRIX.C(27): error C141: syntax error near ','
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C251: illegal octal digit
+MATRIX.C(28): error C141: syntax error near '}'
+MATRIX.C(28): error C141: syntax error near ','
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C251: illegal octal digit
+MATRIX.C(29): error C141: syntax error near '}'
+MATRIX.C(29): error C141: syntax error near ','
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C251: illegal octal digit
+MATRIX.C(30): error C141: syntax error near '}'
+MATRIX.C(30): error C141: syntax error near ','
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C251: illegal octal digit
+MATRIX.C(31): error C141: syntax error near '}'
+MATRIX.C(31): error C141: syntax error near ','
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C251: illegal octal digit
+MATRIX.C(32): error C141: syntax error near '}'
+MATRIX.C(32): error C141: syntax error near ','
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C251: illegal octal digit
+MATRIX.C(33): error C141: syntax error near '}'
+MATRIX.C(33): error C141: syntax error near ','
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C251: illegal octal digit
+MATRIX.C(34): error C141: syntax error near '}'
+MATRIX.C(34): error C141: syntax error near ','
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C251: illegal octal digit
+MATRIX.C(35): error C141: syntax error near '}'
+MATRIX.C(35): error C141: syntax error near ','
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C251: illegal octal digit
+MATRIX.C(36): error C141: syntax error near '}'
+MATRIX.C(36): error C141: syntax error near ','
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C251: illegal octal digit
+MATRIX.C(37): error C141: syntax error near '}'
+MATRIX.C(37): error C141: syntax error near ','
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C251: illegal octal digit
+MATRIX.C(38): error C141: syntax error near '}'
+MATRIX.C(38): error C141: syntax error near ','
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C251: illegal octal digit
+MATRIX.C(39): error C141: syntax error near '}'
+MATRIX.C(41): error C141: syntax error near 'char'
+MATRIX.C(41): error C141: syntax error near '}'
+MATRIX.C(42): error C141: syntax error near 'l'
+MATRIX.C(46): error C141: syntax error near 'int'
+MATRIX.C(46): error C202: 'm': undefined identifier
+MATRIX.C(46): error C202: 'm': undefined identifier
+MATRIX.C(46): error C202: 'm': undefined identifier
+MATRIX.C(46): error C141: syntax error near ')'
+MATRIX.C(49): error C141: syntax error near 'int'
+MATRIX.C(49): error C202: 'n': undefined identifier
+MATRIX.C(49): error C202: 'n': undefined identifier
+MATRIX.C(49): error C202: 'n': undefined identifier
+MATRIX.C(49): error C141: syntax error near ')'
+MATRIX.C(51): error C141: syntax error near 'int'
+MATRIX.C(51): error C202: 'j': undefined identifier
+MATRIX.C(51): error C202: 'j': undefined identifier
+MATRIX.C(51): error C141: syntax error near ')'
+MATRIX.C(54): error C202: 'PORTD': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+MATRIX.C(11): error C141: syntax error near '{', expected ')'
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=30.0 xdata=0 code=210
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=21.0 xdata=0 code=208
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=76
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=76
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=77
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+MATRIX.C(17): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=12.0 xdata=0 code=67
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=22.0 xdata=0 code=477
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling matrix.c...
+MATRIX.C(154): error C141: syntax error near '}'
+MATRIX.C(193): error C141: syntax error near ''
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+MATRIX.C(154): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling matrix.c...
+linking...
+Program Size: data=22.0 xdata=0 code=477
+creating hex file from "matrix"...
+"matrix" - 0 Error(s), 0 Warning(s).
